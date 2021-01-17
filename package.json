@@ -1,0 +1,14 @@
+{
+  "name": "typescript-jsdoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Grzegorz Abramczyk <abramczykg@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.2.0-dev.20210115"
+  }
+}
